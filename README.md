@@ -1,9 +1,9 @@
 # RDS Digital: homepage redesign
 
-A modern, responsive homepage concept for [RDS Digital](https://binduu14.github.io/rdsdigitalhomepage/), a Bengaluru digital marketing agency.
+A modern, responsive homepage concept for [RDS Digital](https://rdsdigital.in/), a Bengaluru digital marketing agency.
 
 ## Live demo
-https://binduu14.github.io/rdsdigitalhomepage/
+Add your GitHub Pages link here.
 
 ## Sections
 Header, hero, services ticker, about and stats, tabbed services, featured projects, why choose us, process, case studies, testimonials and press, blog, contact form, footer.
@@ -12,7 +12,7 @@ Header, hero, services ticker, about and stats, tabbed services, featured projec
 - Plain HTML, CSS and JavaScript, with no build step or dependencies
 - CSS custom properties for the colour and type tokens, with automatic dark mode
 - CSS grid and flexbox, with breakpoints at 900px, 860px and 560px
-- Inline SVG illustrations, so there are no image downloads
+- Images and the hero video are loaded from rdsdigital.in (client logos, project mockups, case studies, testimonials, press logos)
 - Accessible: visible focus states, ARIA tabs, labelled form, and `prefers-reduced-motion` support
 
 ## Run locally
