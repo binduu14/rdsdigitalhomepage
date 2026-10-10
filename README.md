@@ -1,6 +1,6 @@
 # RDS Digital: homepage redesign
 
-A modern, responsive homepage concept for [RDS Digital](https://rdsdigital.in/), a Bengaluru digital marketing agency.
+A modern, responsive homepage concept for [RDS Digital](https://binduu14.github.io/rdsdigitalhomepage/), a Bengaluru digital marketing agency.
 
 ## Live demo
 https://binduu14.github.io/rdsdigitalhomepage/
